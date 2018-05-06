@@ -2,4 +2,4 @@
 
 Title says it all.
 
-School project.
+School project demonstarting the Stratergy design pattern.
